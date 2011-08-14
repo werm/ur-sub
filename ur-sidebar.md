@@ -20,7 +20,8 @@ Feel like a website needs a redesign? Some logo is keeping you from getting a go
 
 *****
 
-**USEFUL TOOLS:**
+**USEFUL TOOLS:**  
+
 * **Google Chrome Extensions**
 	* [Stylebot](https://chrome.google.com/webstore/detail/oiaejidbmkiecgbjeifoejpgmdaleoha) Allows you to quickly create and apply custom CSS to websites and see changes in real time.
 	* [Stylish](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe?hc=search&hcp=main) Like Stylebot, but not as easy to use. It has a **huge** community [here](http://userstyles.org).
