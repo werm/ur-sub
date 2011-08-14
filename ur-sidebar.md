@@ -8,8 +8,8 @@ Feel like a website needs a redesign? Some logo is keeping you from getting a go
 
 *These are not final and may change at any time!*  
 
-* Be kind
-* Be constructive - You might or might not like a redesign, and you're entitled to your opinion. Just keep it constructive. ("The colors create an unreadable contrast", rather than "It looks like shit!"
+* **Be kind**
+* **Be constructive** - You might or might not like a redesign, and you're entitled to your opinion. Just keep it constructive. ("The colors create an unreadable contrast", rather than "It looks like shit!"
 
 *****
 
