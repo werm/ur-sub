@@ -5,14 +5,18 @@ Feel like a website needs a redesign? Some logo is keeping you from getting a go
 *****
 
 **RULES:** 
-*These are not final and may change at any time!*
+
+*These are not final and may change at any time!*  
+
 * Be kind
 * Be constructive - You might or might not like a redesign, and you're entitled to your opinion. Just keep it constructive. ("The colors create an unreadable contrast", rather than "It looks like shit!"
 
 *****
 
 **GUIDLINES:** 
-*These are not final and may change at any time!*
+
+*These are not final and may change at any time!*  
+
 * If you post a picture of your redesign, it would be **very** helpful if you would do a *Before* and *After*, e.g. "Here's how it looks now." and "Here's my version."
 * Obviously, the above guideline does not apply to reddit redesigns
 * Feel free to re-redesign
