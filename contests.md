@@ -1,3 +1,6 @@
+(yeah I know, Markdown...)
+
+
 Goal: A designers' competition - redesign
 
 What can one win? 
