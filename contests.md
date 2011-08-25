@@ -1,22 +1,25 @@
-(yeah I know, Markdown...)
+(yeah I know, Markdown...)  
+(Honestly, I **love** Markdown. Not joking.)
 
+#Goal: A designers' competition - redesign
 
-Goal: A designers' competition - redesign
+###What can one win? 
 
-What can one win? 
-
-	Amazon gift card sponsored by one of the mods (Kriem)
-	Reddit gold sponsored by one of the mods
+* A super awesome Amazon gift card sponsored by one of the mods (Kriem)
+* Three months of sweet, sweet Reddit gold sponsored by one of the mods (werm82)
 	
-Rules
+###Rules
 
-	...
+* All designs must be original. Inspiration is great, copying is not. 
+* Entries must be posted to [Unsolicited Redesigns](http://reddit.com/r/UnsolicitedRedesigns), and images uploaded to [imgur](http://imgur.com).
+* Only one entry per reddit account.
+* One screen/page per entry. Make it count!
+* Winners will be chosen by number of upvotes.
 	
-Example contest:
+###Example contest:
 
-Redesign Amazon homepage
+* I can't find anything except the r/Design contests...
 
-	- 1 screen
-	- 1 entry per reddit account
-	- closing date:
-	- all entries go through imgurg and must be posted to Unsolicited Redesigns
+###Redesign Amazon homepage
+
+* Moar text!
