@@ -26,6 +26,7 @@
 * Your design must be exactly 1280 x 800 pixels
 * You are free to re-interpret the functionality of the original design
 * The original Amazon logo must be left as is
+* The mods of Unsolicited Redesigns have final ruling
 	
 ###Example contest:
 
