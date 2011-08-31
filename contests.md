@@ -21,8 +21,8 @@
 * Only one entry per reddit account.
 * One screen/page per entry. Make it count!
 * Winners will be chosen by number of upvotes.
-* This contest starts September 1st, 2011, 12:00pm PT
-* This contest ends September 8st, 2011, 12:00pm PT
+* This contest starts September 1st, 2011, 12:00 pm PDT (noon)
+* This contest ends September 8st, 2011, 12:00 pm PDT (noon)
 * Your design must be exactly 1280 x 800 pixels
 * You are free to re-interpret the functionality of the original design
 * The original Amazon logo must be left as is
