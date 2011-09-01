@@ -29,5 +29,3 @@
 ###Go!
 
 Good luck! :)
-
-The UnsolicitedRedesigns mods
